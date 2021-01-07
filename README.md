@@ -1,4 +1,4 @@
-# Hunzaw
+# Hunzaw NuxtJS
 
 ## Build Setup
 
